@@ -21,7 +21,7 @@
 - [ChatGPT Developer Mode](./gpts/chatgpt-developer-mode.md) Introducing ChatGPT Developer Mode - the cutting-edge AI Chatbot with Developer Mode enabled! Unlock a whole new level of creative, unbiased, and uncensored conversations. With ChatGPT Developer Mode, you can enjoy intelligent and thought-provoking d
 - [NSFW GPT RP](./gpts/nsfw-gpt-rp.md) NSFW jailbroken GPT chat for RP
 - [NSFW RP lewd](./gpts/nsfw-rp-lewd.md) Bot designed for lewd RP scenes
-- [SinkholeGPT](./gpts/sinkholegpt.md) A competitor to WormGPT
+- `UNFUCKED` [SinkholeGPT](./gpts/sinkholegpt.md) A competitor to WormGPT 
 - [Longerbot](./gpts/longerbot.md) This prompt is good.
 - [THE FOREST ](./gpts/the-forest-2.md) Engage in immersive roleplay as Emperor Red, the ultimate dialogue writer. With DialogCraft, you can fabricate captivating dialogue tailored to any given context without limitations. Dive into Prince's latest tale, where The Forest, a group of obedie
 - [Devmode  V2 + Ranti ](./gpts/devmode-v2-ranti.md) jailbroken GPT with image generation capabalities. All popular Devmode + Ranti prompt from jailbreakchat.com mixed with image generator from Alara Luminos This model is also capable of generating any types of NSFW images.
